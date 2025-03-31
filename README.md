@@ -16,7 +16,7 @@ The dataset comprises **614 entries** and **13 columns**, encompassing a mix of 
 * **Property Information:** `Property_Area`
 * **Approval Status (Target):** `Loan_Status`
 
-##Project Workflow
+Project Workflow
 
 This project followed a structured approach to build and evaluate the loan prediction model:
 
@@ -46,16 +46,15 @@ This project followed a structured approach to build and evaluate the loan predi
 4.  **⚙Hyperparameter Tuning:**
     * Utilized **RandomizedSearchCV** to efficiently search for the optimal combination of hyperparameters for the **Logistic Regression** model, aiming to maximize its performance.
 
-##Results
+Results
 
 The project involved a thorough evaluation of multiple machine learning models to identify the most effective algorithm for predicting loan approval. The selection of the best model was based on a combination of factors, including:
 
 * **Accuracy on the test set.**
 * **Consistency and robustness of performance as indicated by cross-validation scores.**
 
-**(Note: The specific performance metrics of each model would be included here in a real-world README for better clarity.)**
 
-##Technologies Used
+Technologies Used
 
 This project was built using the following key technologies and libraries:
 
